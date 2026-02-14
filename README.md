@@ -13,7 +13,7 @@ const Ali = {
   name: "Ali Israr",
   location: "Seoul, KR",
   role: "Software Engineer",
-  skills: ["TypeScript", "React", "Node.js", "AWS" ,"Devops"],
+  skills: ["TypeScript", "React", "Node.js", "AWS"],
   interests: ["DevOps", "Cloud Architecture", "Open Source"],
   currentFocus: "Building scalable web applications",
   funFact: "I debug with console.log and I'm not ashamed",
