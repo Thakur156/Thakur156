@@ -3,7 +3,9 @@
 # Hi there, I'm Ali Israr! 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Building+AI-Integrated+Applications;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
-<img align="right" alt="Coding" width="300" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td valign="top">
 
 ```typescript
 const Ali = {
@@ -17,4 +19,9 @@ const Ali = {
 };
 ```
 
-<br clear="both">
+</td>
+<td valign="top">
+<img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</td>
+</tr>
+</table>
