@@ -13,6 +13,9 @@ const Ali = {
   role: "Software Engineer",
   location: "Seoul, KR",
   focus: "AI-Integrated Full-Stack Apps",
+  stack: ["TypeScript", "React", "Node.js", "AWS"],
+  passion: "Building intelligent solutions",
+  open_to: "Collaborations & new opportunities",
 };
 ```
 
