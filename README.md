@@ -13,6 +13,7 @@ const Ali = {
   stack: ["TypeScript", "React", "Node.js", "AWS"],
   passion: "Building intelligent solutions",
   open_to: "Collaborations & new opportunities",
+  contact: "aliisrar156@gmail.com",
 };
 ```
 
