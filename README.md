@@ -1,22 +1,18 @@
 # Hi there, I'm Ali Israr! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;TypeScript+Developer;Building+Web+Applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Building+AI-Integrated+Applications;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
 const Ali = {
-  name: "Ali Israr",
-  location: "Seoul, KR",
   role: "Software Engineer",
-  skills: ["TypeScript", "React", "Node.js", "AWS"],
-  interests: ["DevOps", "Cloud Architecture", "Open Source"],
-  currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log and I'm not ashamed",
+  location: "Seoul, KR",
+  focus: "AI-Integrated Full-Stack Apps",
 };
 ```
 
@@ -48,28 +44,6 @@ const Ali = {
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thakur156&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur156&layout=compact&theme=react&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thakur156&theme=react&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Thakur156&theme=flat&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thakur156&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </div>
 
 ## 📫 Connect With Me
